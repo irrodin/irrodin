@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://rule34.xxx/counter/1.gif" alt="Step 1" width="100" />
-  <img src="https://rule34.xxx/counter/3.gif" alt="In Progress" width="100" />
-  <img src="https://rule34.xxx/counter/9.gif" alt="Progress" width="100" />
-  <img src="https://rule34.xxx/counter/6.gif" alt="Progress" width="100" />
+  <img src="https://rule34.xxx/counter/1.gif" alt="Step 1" width="90" />
+  <img src="https://rule34.xxx/counter/3.gif" alt="In Progress" width="90" />
+  <img src="https://rule34.xxx/counter/9.gif" alt="Progress" width="90" />
+  <img src="https://rule34.xxx/counter/6.gif" alt="Progress" width="90" />
 </p>
 
 
