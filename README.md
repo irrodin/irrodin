@@ -3,6 +3,7 @@
   <img src="https://rule34.xxx/counter/3.gif" alt="In Progress" width="50" />
   <img src="https://rule34.xxx/counter/9.gif" alt="Progress" width="50" />
   <img src="https://rule34.xxx/counter/6.gif" alt="Progress" width="50" />
+  <img src="https://rule34.xxx/counter/7.gif" alt="Progress" width="50" />
 </p>
 
 
